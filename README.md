@@ -33,12 +33,12 @@ Big Query is well-suited for analytical queries and real-time data analysis, mak
 4. Bubble Chart for Gene Expression Vs. Variation
 5. Counter Plot for Variation by Cancer Class
 ## References
-https://www.kaggle.com/c/msk-redefining-cancer-treatment 
+https://www.kaggle.com/c/msk-redefining-cancer-treatment.
 https://data.wisc.edu/data-literacy/lifecycle/#:~:text=A%20data%20lifecycle%20illustrates%20how,through%20its%20lifecycle%20of%20usefulness. 
-https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python 
-https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html
-https://cloud.google.com/bigquery/docs/introduction 
-https://console.cloud.google.com/welcome?project=saikiran-adta5240  
+https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python.
+https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html.
+https://cloud.google.com/bigquery/docs/introduction.
+https://console.cloud.google.com/welcome?project=saikiran-adta5240. 
 
 
 
